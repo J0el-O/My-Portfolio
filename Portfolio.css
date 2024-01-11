@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-image: url();
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    padding-top: 30px;
+    align-items: right;
+    background-color: black;
+}
+
+.navbar_items {
+    list-style: none;
+    display: flex;
+    width: 40%;
+    font-size: 13px;
+    
+    margin-left: 0px;
+    justify-content: space-around;
+    justify-content: space-evenly;
+}
+
+.navbar_items a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.hero {
+    font-family: 'Poppins', sans-serif;
+    padding: 19rem 0 19rem 2rem;
+
+
+}
+
+.intro_text {}
+
+.bgvid
